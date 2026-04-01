@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hello! I'm Chris 👋</h1>
 
-<!--
-**CodebindPyth/CodebindPyth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Python Developer • Automation • Security Tools • redteam tools
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+
+Write 1–2 lines about your role and interests.  
+🔧 I build Python tools (CLI and automation scripts).  
+🔐 I am interested in system security testing.  
+🔧 Strong knowledge of C programming 
+
+---
+
+##  Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.13-blue" alt="Python"/>
+  <img src="https://img.shields.io/badge/GitHub-Actions-black" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Debian-C70039?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+</p>
+
+
+
+---
+
+## 📂 Featured Projects
+
+- **[Project1](https://github.com/CodebindPyth/wordsmith)**: Synthetic data generator for custom passwords, emails, and phone numbers   
+- **[Project3](https://github.com/CodebindPyth/snake-game-in-HTML)**: snake game in HTML  
+
+
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodebindPyth&show_icons=true&theme=radical&cache_seconds=60"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodebindPyth&layout=compact&theme=radical&cache_seconds=60"/>
+</p>
+
+
+---
+
+## 📫 Contact
+
+ 
+- LinkedIn: Inthefeature  
+- Twitter: [@CodebindPyth](https://x.com/CodebindPyth)  
+
+
+
+---
+
+*Note: I am open to collaborations and open-source projects!*
