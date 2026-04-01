@@ -40,9 +40,10 @@ Write 1–2 lines about your role and interests.
 
 ## 📈 GitHub Statistics
 
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodebindPyth&theme=radical" /> </p>
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodebindPyth&show_icons=true&theme=radical&cache_seconds=60"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodebindPyth&layout=compact&theme=radical&cache_seconds=60"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodebindPyth&theme=radical" />
 </p>
 
 
