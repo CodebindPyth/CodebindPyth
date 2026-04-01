@@ -1,62 +1,72 @@
-<h1 align="center">Hello! I'm Chris 👋</h1>
+<h1 align="center">Hey there, I'm Chris </h1>
 
 <p align="center">
-  Python Developer • Automation • Security Tools • redteam tools
+  Python Developer • C Programmer • Automation • Security Enthusiast
 </p>
 
 ---
 
-##  About Me
-
-Write 1–2 lines about your role and interests.  
-🔧 I build Python tools (CLI and automation scripts).  
-🔐 I am interested in system security testing.  
-🔧 Strong knowledge of C programming 
+ About Me,
+ I build Python CLI tools and automation scripts,
+ Interested in system security & penetration testing,
+ Strong knowledge of C programming & low-level concepts,
+ Comfortable with Linux environments & terminal workflows,
+ Also work on Windows tooling & scripting,
 
 ---
 
-##  Technologies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.13-blue" alt="Python"/>
-  <img src="https://img.shields.io/badge/GitHub-Actions-black" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Debian-C70039?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+ Languages & Tools,
+ Programming Languages,
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c" />
 </p>
 
+---
 
+ Systems & OS,
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows,debian,ubuntu" />
+</p>
 
 ---
 
-## 📂 Featured Projects
-
-- **[Project1](https://github.com/CodebindPyth/wordsmith)**: Synthetic data generator for custom passwords, emails, and phone numbers   
-- **[Project3](https://github.com/CodebindPyth/snake-game-in-HTML)**: snake game in HTML  
-
-
+ Tools & Dev Environment,
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,terminal,docker" />
+</p>
 
 ---
 
-## 📈 GitHub Statistics
+ Security & Pentesting Tools,
+<p align="center">
 
+  <img src="https://img.shields.io/badge/Burp_Suite-FF7139?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/FFUF-FCC624?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gobuster-000000?style=for-the-badge" />
+
+</p>
+
+---
+
+ GitHub Stats,
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodebindPyth&theme=radical" /> </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodebindPyth&theme=radical" />
 </p>
 
+---
+
+ Contact,
+GitHub: @CodebindPyth,
+Twitter: @CodebindPyth,
+LinkedIn: In feature
 
 ---
 
-## 📫 Contact
-
- 
-- LinkedIn: Inthefeature  
-- Twitter: [@CodebindPyth](https://x.com/CodebindPyth)  
-
-
-
----
-
-*Note: I am open to collaborations and open-source projects!*
+<p align="center">
+   Always learning • Building • Breaking • Improving
+</p>
