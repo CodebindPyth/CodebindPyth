@@ -11,8 +11,8 @@
  Interested in system security & penetration testing,
  Strong knowledge of C programming & low-level concepts,
  Comfortable with Linux environments & terminal workflows,
- Also work on Windows tooling & scripting,Student at Department of Digital Systems - University of peloponnese.
- 20 years old
+ Also work on Windows tooling & scripting,20 years old Student at Department of Digital Systems - University of peloponnese.
+ 
  
 
 ---
