@@ -1,10 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0f1923,100:1a1f2e&height=220&section=header&text=I'm%20Chris%20Welcome! &fontSize=42&fontColor=58a6ff&fontAlignY=40&desc=Python%20BugHunting%20%E2%80%A2%20C%20Security%20%E2%80%A2%20Automation%20%E2%80%A2%20programming%20Enthusiast&descAlignY=62&descColor=8b949e&descSize=16" width="100%"/>
-
-<!-- TYPING EFFECT — alternates between both bio lines -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=2000&color=58A6FF&center=true&vCenter=true&width=620&lines=Python+%26+C+Developer+%7C+Pentesting+%7C+Digital+Systems+%40+UoP;Python+Dev+%E2%80%A2+C+Programmer+%E2%80%A2+Automation+%E2%80%A2+Security+Enthusiast)](https://git.io/typing-svg)
+<img width="1440" height="546" alt="image" src="https://github.com/user-attachments/assets/5acc44b8-cf56-4b97-bb14-d407bb2f7f01" />
 
 </div>
 
