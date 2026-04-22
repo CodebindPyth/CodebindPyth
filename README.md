@@ -1,10 +1,6 @@
 <div align="center">
-
-<!-- ANIMATED HEADER BANNER -->
-<img width="1440" height="546" alt="image" src="https://github.com/user-attachments/assets/5acc44b8-cf56-4b97-bb14-d407bb2f7f01" />
-
+  <img src="codebindpyth_banner.svg" width="100%"/>
 </div>
-
 ---
 
  About Me,
